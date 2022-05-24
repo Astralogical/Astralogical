@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Astralogical
+- 🌱 I’m currently learning C#
+- 📫 How to reach me Discord astra#0006
